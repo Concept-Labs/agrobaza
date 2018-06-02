@@ -779,6 +779,11 @@ div.required .control-label:before {
 #menu {font-size:12px;}
 #menu .nav li a {padding: 0 6px;}
 }
+@media (max-width: 767px){
+    .head-right{
+        float: none;
+    }
+}
 @media (min-width: 768px) {
     #menu .dropdown:hover .dropdown-menu {
         display: block;
