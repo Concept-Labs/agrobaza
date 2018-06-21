@@ -1,5 +1,5 @@
 <section id="brands">
-<h3>Наші Бренди</h3>
+<h3>Наші Товари</h3>
 <div class="container">
 <div class="row row-carousel">
 <div id="carousel<?php echo $module; ?>" class="carousel">
